@@ -1,7 +1,7 @@
 
 # Hi there, I'm Pari Gupta 👋
 
-🎓 **3nd-year BTech CSE (AI)** student  
+🎓 **3rd-year BTech CSE (AI)** student  
 💡 Passionate about **Machine Learning**, **Computer Vision**, and **Deep Learning**  
 🚀 Exploring **AI-powered solutions** and **research projects**  
 📚 Always learning & sharing knowledge
