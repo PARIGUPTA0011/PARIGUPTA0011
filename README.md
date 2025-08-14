@@ -1,9 +1,7 @@
-<!-- Banner -->
-![Banner](https://i.imgur.com/6o3n6aF.png)
 
 # Hi there, I'm Pari Gupta 👋
 
-🎓 **2nd-year BTech CSE (AI)** student  
+🎓 **3nd-year BTech CSE (AI)** student  
 💡 Passionate about **Machine Learning**, **Computer Vision**, and **Deep Learning**  
 🚀 Exploring **AI-powered solutions** and **research projects**  
 📚 Always learning & sharing knowledge
@@ -17,19 +15,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
----
-
-## 📌 Featured Projects
-🔹 [YOLOv8 for Indian Currency Detection](https://github.com/YOUR_USERNAME/YOUR_REPO)  
-🔹 [Sign Language Recognition](https://github.com/YOUR_USERNAME/YOUR_REPO)  
-🔹 [MNIST CNN Classifier](https://github.com/YOUR_USERNAME/YOUR_REPO)  
-
----
-
-## 📊 GitHub Stats
-![Pari's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ---
 
