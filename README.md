@@ -19,8 +19,5 @@
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pari-gupta-168564289/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](parigupta9667@gmail.com)
-
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME)
